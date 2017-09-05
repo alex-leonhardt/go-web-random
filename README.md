@@ -1,8 +1,7 @@
 # go-web-random
 responds a random word from the words package
 
-## pre-requisites
-
+## pre-requisites
 install the `words` package to provide `/usr/share/dict/words`
 
 ## run the service
